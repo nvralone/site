@@ -5,7 +5,5 @@ i hate it here is a webpage created to make suicide prevention links and numbers
 <source media="(min-width:465px)" srcset="img_white_flower.jpg">
 <img src="https://i.postimg.cc/vH4vVzwv/Screenshot-from-2021-08-31-17-54-58.png" alt="Flowers" style="width:auto;">
 </picture> 
-<form method="get" action="https://christianbrasch.github.io/ihih/">
-    <button type="submit">Go to Site</button>
-</form>
+<a href="https://christianbrasch.github.io/ihih/">Go to Website</a>
 
