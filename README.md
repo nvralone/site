@@ -12,3 +12,7 @@
 <h4><a href="https://988lifeline.org/donate/">Donate to the 988Lifeline (AKA Suicide Prevention Lifeline.)</a></h4>
 
 <h4><a href="https://github.com/nvralone/site/blob/main/CONTRIBUTING.md">Contribute to this repo</a></h3>
+
+<h2>Contributors</h2>
+
+<h4><a href="https://github.com/Ayushhgupta39">Ayushhgupta39</a></h4>
