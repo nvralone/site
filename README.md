@@ -1,4 +1,5 @@
-<h2>never alone</h>
+<img src="https://raw.githubusercontent.com/nvralone/site/main/logo.png" alt="nvralone logo" style="width:150px;height:150px;">
+
 <h4>never alone is a simple HTML webpage created to make suicide prevention links swiftly and easily accessible on slower connections.</h4>
 <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
 <source media="(min-width:465px)" srcset="img_white_flower.jpg">
