@@ -15,4 +15,4 @@
 
 <h2>Contributors</h2>
 
-<h4><a href="https://github.com/Ayushhgupta39">Ayushhgupta39</a> - Logo Designer & Layout Updater</h4>
+<h4><a href="https://github.com/Ayushhgupta39">Ayushhgupta39</a> - Logo Designer & Document Formatter</h4>
