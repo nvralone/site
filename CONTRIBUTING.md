@@ -6,7 +6,7 @@
 3. Do not create off-topic contributions. Keep everything within the subject of the repository.
 4. Do not contribute spam or invalid code.
 5. Follow Github's [Terms of Service.](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-6. If participating in hacktoberfest, follow their [rules/standards.](https://hacktoberfest.com/participation/)
+6. If you are participating in certain events, (such as Hacktoberfest) follow their rules & standards.
 ## How to push:
 1. Fork the repo
 2. Create a new branch
