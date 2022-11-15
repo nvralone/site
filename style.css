@@ -22,7 +22,7 @@
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: #ff523b;
+    background: #52185A;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
     color: #FFFFFF;
     border: none;
@@ -35,7 +35,7 @@
     width: 52px;
     height: 52px;
     margin: 2px;
-    background: #b41919;
+    background: #C364D0;
 }
 
 #goingupbtn:active {
