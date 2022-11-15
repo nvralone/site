@@ -3,7 +3,9 @@
 <h4>never alone is a simple HTML webpage created to make suicide prevention links swiftly and easily accessible on slower connections.</h4>
 <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
 <source media="(min-width:465px)" srcset="img_white_flower.jpg">
-  
+<h2>Latest Update</h2>
+<h4>Going Pink!</h4>
+Thanks to a new <a href="https://github.com/nvralone/site/pull/12">contribution</a>, we've gone pink and added a loading screen, as well as a "top of page" button!
 <h2>Links</h2>
   
 <h4><a href="https://na.pvrz.ml">Go to Website</a> (via <a href=https://github.com/pvrzz>pvrz</a>'s domain [na.pvrz.ml])</h4>
