@@ -8,6 +8,7 @@
 }
 .mainLogo{
     position: relative;
+    vertical-align: middle;
     width: 15%;
     height: 15%;
     background-color: #52185A;
