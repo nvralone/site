@@ -40,7 +40,7 @@
 #goingupbtn:active {
     background: rgb(12, 214, 12);
 }
-.centered-navbar {
+.centered-navbar{
     position:absolute; left:25%;
     width:50%;
     text-align:center;
