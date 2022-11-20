@@ -40,6 +40,10 @@
 #goingupbtn:active {
     background: rgb(12, 214, 12);
 }
-
+.centered-navbar {
+    position:absolute; left:25%;
+    width:50%;
+    text-align:center;
+}
 
 /* scroll-up button ends */
