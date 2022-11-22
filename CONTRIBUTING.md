@@ -12,7 +12,3 @@
 2. Create a new branch
 3. Add your contributions
 4. Submit a push request
-
-## Contributors
-
-<h4><a href="https://github.com/Ayushhgupta39">Ayushhgupta39</a> - Logo Designer & Document Formatter</h4>
