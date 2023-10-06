@@ -9,7 +9,7 @@ Thanks to a new <a href="https://github.com/nvralone/site/pull/12">contribution<
 Fixed funding, updated 988 link.
 <h2>Links</h2>
   
-<h4><a href="https://nvralone.github.io/site">Go to Website</a>>
+<h4><a href="https://nvralone.github.io/site">Go to Website</a>
 
 <h4><a href="https://988lifeline.org/donate/">Donate to the 988 Lifeline.</a></h4>
 
