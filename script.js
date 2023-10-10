@@ -1,5 +1,5 @@
 var loader;
-
+// opacity, display content
 function loadNow(opacity) {
     if (opacity <= 0) {
         displayContent();
@@ -10,12 +10,12 @@ function loadNow(opacity) {
         },100);
     }
 }
-
+// get style element
 function displayContent() {
     loader.style.display = 'none';
     document.getElementById('content').style.display = 'block';
 }
-
+// event listener
 document.addEventListener("DOMContentLoaded", function() {
     loader = document.getElementById('loader');
     loadNow(1);
